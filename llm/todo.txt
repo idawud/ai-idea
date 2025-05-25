@@ -1,0 +1,9 @@
+
+> MIT Introduction to Deep Learning | 6.S191
+    https://www.youtube.com/watch?v=alfdI7S6wCY&ab_channel=AlexanderAmini
+
+> Build your first machine learning model in Python
+    https://www.youtube.com/watch?v=29ZQ3TDGgRQ&ab_channel=DataProfessor
+
+> Machine Learning From Scratch
+    https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&ab_channel=AssemblyAI
