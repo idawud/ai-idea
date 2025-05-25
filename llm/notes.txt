@@ -1,0 +1,4 @@
+# PlayList https://www.youtube.com/watch?v=3dWzNZXA8DY&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&index=2&ab_channel=Vizuara
+
+what is LLM?
+Deep Neural Network (DNN) - trained on large amount of text data.
