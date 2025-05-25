@@ -1,4 +1,25 @@
 # PlayList https://www.youtube.com/watch?v=3dWzNZXA8DY&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&index=2&ab_channel=Vizuara
 
+Based on the book:
+  Building a Large language Model (From Scratch) - Sebastian Raschika
+
 what is LLM?
 Deep Neural Network (DNN) - trained on large amount of text data.
+"large" - due to the size of paramaters. current billions to trillions
+"language" NLP(used to be for specific task) - now handles range of tasks
+
+Transformer Architecture    
+
+[LLM] vs [GenAI] vs [Deep Learning(DL)] vs [Machine Learning]
+
+---hierarchy---
+AI -> ML -> DL -> LLM(Text only)
+
+GenAI == LLM + DL
+
+LLM applications
+ - content genration
+ - Sentiment Analysis
+ - Chatbots/Virtual Assistants
+ - Machine translation
+ - (New)Novel text genration
