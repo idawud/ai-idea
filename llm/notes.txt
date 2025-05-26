@@ -23,3 +23,27 @@ LLM applications
  - Chatbots/Virtual Assistants
  - Machine translation
  - (New)Novel text genration
+
+
+ --- Chapter 3 ---------
+ PreTraining + Fine tuning -> LLM
+
+ --- Chapter 4 Transformer ---------
+ Input text -> preprossing -> encoder -> embeddings -> decoder -> output layer
+
+ encoder -> encodes input text into vectors
+ decoder -> geneate output text from encoded vectors
+
+ BERT -> Bidirectional encoder representations from Transformers
+  > predicts hidden words in a given sentence
+  > great for Sentiment Analysis
+
+ GPT -> Generative pretrained Transformer
+  > geneate near words
+
+  Note: Not all LLM are Transformers, LLM can be based on recurrent/convolutional Architecture
+
+
+
+
+--- Chapter 3 ---------
