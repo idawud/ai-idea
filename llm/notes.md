@@ -1,4 +1,7 @@
-# PlayList https://www.youtube.com/watch?v=3dWzNZXA8DY&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&index=2&ab_channel=Vizuara
+# PlayList 
+https://www.youtube.com/watch?v=xbaYCf2FHSY&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&index=5&ab_channel=Vizuara
+
+
 
 Based on the book:
   Building a Large language Model (From Scratch) - Sebastian Raschika
@@ -46,3 +49,12 @@ LLM applications
 
 
 --- Chapter 5 GPT ---------
+Zero Shot -> ability to geenrate completelly unseen tasks without prior examples
+Few Shot -> Learning from a minimum number of examples, which user provides as input.
+
+GPT trained for "next-work" but has "emergent-behavior" e.g. language translation
+
+
+--- Chapter  Stages of building LLM ---------
+
+
