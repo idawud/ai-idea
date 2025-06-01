@@ -56,5 +56,12 @@ GPT trained for "next-work" but has "emergent-behavior" e.g. language translatio
 
 
 --- Chapter  Stages of building LLM ---------
+ STAGE 1 (Buidling on LLM)
+ data prepartion & sampling > attention mechanism > llm architecture
 
+ STAGE 2 (Foundational model)
+ Traning loop > model evaluation > load pretained weights
+
+ STAGE 3 (Finetuning)
+ classifer | personal assistant
 
