@@ -65,3 +65,8 @@ GPT trained for "next-work" but has "emergent-behavior" e.g. language translatio
  STAGE 3 (Finetuning)
  classifer | personal assistant
 
+
+--- Chapter 7  Code an LLM Tokenizer -------
+coding simple tokenizer
+
+--- Chapter 8 byte pair enconding -------
