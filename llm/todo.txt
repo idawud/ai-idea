@@ -7,3 +7,10 @@
 
 > Machine Learning From Scratch
     https://www.youtube.com/watch?v=p1hGz0w_OCo&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&ab_channel=AssemblyAI
+
+
+MATHS
+> Vectors
+    https://math.libretexts.org/Bookshelves/Calculus/Calculus_3e_(Apex)/10%3A_Vectors/10.02%3A_An_Introduction_to_Vectors
+
+    https://math.libretexts.org/Bookshelves
