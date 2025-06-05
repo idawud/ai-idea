@@ -70,3 +70,7 @@ GPT trained for "next-work" but has "emergent-behavior" e.g. language translatio
 coding simple tokenizer
 
 --- Chapter 8 byte pair enconding -------
+subword tokenization algorithms
+
+--- Chapter 9  Input-Target data pairs -------
+
