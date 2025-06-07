@@ -74,3 +74,5 @@ subword tokenization algorithms
 
 --- Chapter 9  Input-Target data pairs -------
 
+--- Chapter 10 token embeddings -------
+capyuring semantic meanings of words susing vectors
